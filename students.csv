@@ -1,0 +1,151 @@
+student_id,name,branch,batch,cgpa,backlogs,internships,skills,placement_status,company,role,package_lpa,placement_date
+S001,Kavya Singh,CSE,2025,7.42,0,1,"React, Python, SQL",Placed,Infosys,Systems Engineer,3.91,2024-12-08
+S002,Pooja Sharma,ECE,2026,7.89,0,1,"VLSI, Python, IoT",Placed,Siemens,Graduate Trainee,5.02,2026-02-23
+S003,Karan Kapoor,IT,2024,7.73,0,0,"SQL, DSA, Cloud",Not Placed,,,,
+S004,Shreya Bansal,ECE,2025,8.89,0,0,"MATLAB, IoT, Python",Placed,Bosch,Engineer,7.32,2024-08-21
+S005,Aditi Jain,ME,2025,7.18,0,0,"SolidWorks, Python, CATIA",Not Placed,,,,
+S006,Kavya Gupta,ECE,2024,8.66,0,0,"Python, MATLAB, VLSI",Not Placed,,,,
+S007,Kavya Jain,ECE,2024,7.43,0,0,"VLSI, IoT, Embedded C",Not Placed,,,,
+S008,Yash Bansal,CSE,2024,7.63,0,1,"DSA, React, SQL",Not Placed,,,,
+S009,Yash Saxena,CSE,2024,7.01,0,0,"Machine Learning, Java, SQL",Not Placed,,,,
+S010,Yash Rathore,ECE,2025,7.38,0,2,"Embedded C, MATLAB, IoT",Not Placed,,,,
+S011,Divya Pandey,EEE,2025,8.13,0,2,"Embedded C, MATLAB, AutoCAD",Not Placed,,,,
+S012,Aditi Tiwari,ME,2026,8.02,0,0,"SolidWorks, AutoCAD, Python",Placed,L&T,Graduate Engineer Trainee,4.78,2025-11-01
+S013,Simran Tiwari,CSE,2024,8.97,0,1,"Python, React, Java",Placed,Tech Mahindra,Software Engineer,4.92,2023-09-12
+S014,Saurabh Kapoor,CE,2026,5.89,0,1,"Revit, Excel, Surveying",In Process,,,,
+S015,Ananya Bansal,CSE,2024,7.57,0,1,"Python, Machine Learning, React",Placed,TCS,Systems Engineer,4.36,2023-08-19
+S016,Ananya Jain,CSE,2025,7.47,0,0,"React, Machine Learning, SQL",Placed,Tech Mahindra,Software Engineer,4.71,2024-09-18
+S017,Arjun Singh,ECE,2025,6.5,0,1,"Embedded C, MATLAB, VLSI",Not Placed,,,,
+S018,Meera Singh,CSE,2024,7.87,0,0,"Java, DSA, SQL",Placed,Infosys,Systems Engineer,4.22,2024-03-08
+S019,Aditi Singh,CSE,2026,8.62,2,1,"Java, SQL, React",Not Placed,,,,
+S020,Simran Verma,CSE,2024,5.5,3,0,"SQL, DSA, Machine Learning",Not Placed,,,,
+S021,Shreya Goyal,CSE,2025,7.46,0,0,"DSA, Python, React",Placed,Deloitte,Analyst,8.76,2024-12-14
+S022,Karan Verma,CE,2024,7.71,1,0,"AutoCAD, STAAD Pro, Excel",Placed,Mahindra,Graduate Engineer Trainee,4.99,2023-12-31
+S023,Vivaan Gupta,IT,2026,6.68,0,1,"SQL, Java, DSA",Not Placed,,,,
+S024,Nikhil Bansal,IT,2024,7.09,0,1,"Cloud, Python, DSA",Placed,Deloitte,Analyst,6.8,2024-03-26
+S025,Harsh Gupta,ME,2025,7.19,0,0,"Excel, AutoCAD, Python",Not Placed,,,,
+S026,Nikhil Singh,CE,2024,8.34,0,2,"Surveying, STAAD Pro, Excel",Placed,L&T,Graduate Engineer Trainee,6.29,2023-09-22
+S027,Isha Pandey,ECE,2025,8.84,0,1,"IoT, Embedded C, Python",Placed,Siemens,Graduate Trainee,5.48,2024-11-22
+S028,Neha Kapoor,ECE,2024,6.42,0,2,"VLSI, Embedded C, MATLAB",Not Placed,,,,
+S029,Rohan Kapoor,CSE,2025,6.02,2,0,"DSA, Java, React",Not Placed,,,,
+S030,Harsh Kapoor,CE,2026,8.97,0,2,"STAAD Pro, Surveying, Excel",Placed,Tata Motors,Engineer Trainee,6.46,2025-11-14
+S031,Meera Jain,CSE,2026,8.82,1,0,"SQL, DSA, React",Not Placed,,,,
+S032,Amit Sharma,ECE,2025,8.55,0,2,"IoT, MATLAB, Python",Placed,Siemens,Graduate Trainee,6.61,2025-03-29
+S033,Aarav Singh,ME,2025,8.4,0,0,"CATIA, Python, Excel",Not Placed,,,,
+S034,Mohit Singh,IT,2026,9.48,0,0,"Web Dev, Python, Java",Placed,Infosys,Systems Engineer,4.93,2026-03-24
+S035,Ankit Chauhan,ECE,2024,7.26,0,1,"Python, IoT, MATLAB",Placed,HCLTech,Graduate Engineer Trainee,4.36,2023-11-06
+S036,Isha Mishra,ECE,2025,6.65,0,1,"IoT, MATLAB, Embedded C",Placed,L&T,Graduate Engineer Trainee,6.02,2024-10-22
+S037,Deepak Bansal,IT,2024,5.8,2,1,"DSA, Python, SQL",Not Placed,,,,
+S038,Kavya Chauhan,CSE,2024,7.29,0,0,"Java, Machine Learning, Python",Placed,Tech Mahindra,Software Engineer,4.42,2024-02-13
+S039,Aditya Bansal,IT,2026,6.13,0,0,"Java, Python, Cloud",In Process,,,,
+S040,Meera Bansal,CSE,2024,6.74,1,0,"Java, SQL, DSA",Not Placed,,,,
+S041,Simran Bansal,ECE,2026,8.14,1,1,"VLSI, Python, MATLAB",Placed,Infosys,Systems Engineer,4.78,2025-10-10
+S042,Divya Goyal,ECE,2025,6.8,0,1,"VLSI, IoT, MATLAB",Placed,L&T,Graduate Engineer Trainee,4.7,2024-09-08
+S043,Amit Rathore,ECE,2026,7.61,0,1,"Embedded C, VLSI, Python",Placed,Siemens,Graduate Trainee,6.75,2026-01-26
+S044,Aarav Rathore,IT,2025,8.31,0,0,"Web Dev, Cloud, Java",Placed,Accenture,Associate Software Engineer,5.37,2024-08-08
+S045,Yash Chauhan,ECE,2025,7.12,1,2,"MATLAB, Embedded C, VLSI",Not Placed,,,,
+S046,Isha Sharma,CSE,2025,5.7,0,1,"Python, DSA, SQL",Not Placed,,,,
+S047,Deepak Chauhan,IT,2025,7.01,0,1,"Web Dev, Python, Cloud",Not Placed,,,,
+S048,Harsh Jain,ECE,2026,9.58,0,0,"VLSI, MATLAB, Embedded C",Placed,Zoho,Member Technical Staff,8.68,2025-12-23
+S049,Rahul Bansal,ECE,2025,8.01,0,0,"VLSI, IoT, Embedded C",Placed,Wipro,Project Engineer,4.08,2025-03-21
+S050,Riya Agarwal,CSE,2026,8.47,1,0,"Machine Learning, DSA, Python",In Process,,,,
+S051,Vivaan Saxena,ECE,2026,6.67,0,1,"Python, Embedded C, VLSI",Not Placed,,,,
+S052,Nisha Bansal,EEE,2025,8.18,0,1,"Embedded C, Python, MATLAB",Placed,Siemens,Graduate Trainee,5.81,2025-03-07
+S053,Amit Gupta,CSE,2025,7.44,0,0,"Python, SQL, DSA",Placed,Cognizant,Programmer Analyst,4.35,2024-10-06
+S054,Ankit Pandey,ME,2026,8.41,1,1,"Excel, SolidWorks, AutoCAD",Placed,Tata Motors,Engineer Trainee,5.72,2026-02-11
+S055,Amit Goyal,ECE,2025,7.24,0,1,"VLSI, IoT, Python",Placed,HCLTech,Graduate Engineer Trainee,4.22,2024-10-28
+S056,Mohit Chauhan,IT,2025,7.45,0,0,"Python, Java, SQL",Placed,Deloitte,Analyst,8.85,2025-01-24
+S057,Karan Agarwal,CSE,2025,7.2,0,1,"Python, Java, DSA",Placed,Wipro,Project Engineer,3.8,2025-01-29
+S058,Neha Yadav,CSE,2024,8.58,0,1,"Java, SQL, Python",Placed,Microsoft,Software Engineer,25.69,2023-12-01
+S059,Saurabh Goyal,CSE,2024,7.11,0,0,"Java, React, DSA",Placed,Cognizant,Programmer Analyst,4.12,2024-02-12
+S060,Mohit Jain,EEE,2025,7.61,0,1,"AutoCAD, Python, MATLAB",Placed,TCS,Systems Engineer,4.11,2025-02-06
+S061,Arjun Agarwal,ECE,2025,7.12,0,0,"Embedded C, Python, VLSI",Not Placed,,,,
+S062,Priya Tiwari,CSE,2025,6.96,0,1,"SQL, Python, Java",Not Placed,,,,
+S063,Meera Agarwal,IT,2026,7.48,0,0,"Python, Java, SQL",Not Placed,,,,
+S064,Tanvi Tiwari,IT,2025,7.9,0,1,"SQL, Cloud, Web Dev",Placed,Zoho,Member Technical Staff,6.16,2024-11-19
+S065,Shreya Chauhan,ECE,2024,9.33,1,1,"Embedded C, IoT, Python",Placed,HCLTech,Graduate Engineer Trainee,4.17,2023-11-22
+S066,Tanvi Pandey,CSE,2026,8.65,0,1,"Python, SQL, DSA",Placed,Capgemini,Analyst,4.94,2026-03-08
+S067,Karan Chauhan,IT,2025,6.88,1,1,"Web Dev, Python, SQL",Placed,Infosys,Systems Engineer,4.96,2024-11-12
+S068,Aditi Sharma,ECE,2026,9.51,0,0,"MATLAB, IoT, Python",Placed,Siemens,Graduate Trainee,5.15,2025-10-08
+S069,Deepak Goyal,CSE,2026,6.88,0,1,"React, SQL, Python",Placed,Infosys,Systems Engineer,4.25,2025-08-31
+S070,Kavya Yadav,IT,2026,6.98,0,1,"Web Dev, DSA, Cloud",Placed,Deloitte,Analyst,6.43,2025-09-18
+S071,Tanvi Yadav,ME,2025,7.65,0,1,"Python, AutoCAD, SolidWorks",Not Placed,,,,
+S072,Nisha Goyal,ME,2025,5.65,0,0,"Excel, CATIA, SolidWorks",Not Placed,,,,
+S073,Aditi Agarwal,CE,2024,6.81,0,0,"Excel, Surveying, STAAD Pro",Not Placed,,,,
+S074,Meera Yadav,IT,2024,7.11,0,2,"SQL, Python, Web Dev",Placed,Tech Mahindra,Software Engineer,3.52,2023-09-06
+S075,Mohit Yadav,CSE,2025,6.67,0,2,"Machine Learning, React, SQL",Not Placed,,,,
+S076,Kavya Goyal,ME,2024,8.57,0,0,"Python, SolidWorks, Excel",Placed,L&T,Graduate Engineer Trainee,5.61,2024-01-25
+S077,Nikhil Sharma,CSE,2024,7.17,0,1,"React, Java, Machine Learning",Placed,Zoho,Member Technical Staff,9.48,2024-01-06
+S078,Isha Jain,IT,2026,8.24,0,1,"SQL, Web Dev, DSA",Not Placed,,,,
+S079,Deepak Tiwari,ECE,2024,9.34,3,0,"Python, IoT, VLSI",Not Placed,,,,
+S080,Rahul Rathore,ME,2024,8.37,0,1,"Excel, Python, CATIA",Placed,Tata Motors,Engineer Trainee,5.19,2023-12-23
+S081,Aditi Verma,ME,2026,5.5,0,1,"Excel, Python, AutoCAD",Not Placed,,,,
+S082,Isha Yadav,ECE,2026,7.44,0,0,"Python, Embedded C, IoT",In Process,,,,
+S083,Ankit Kapoor,CSE,2024,7.82,0,1,"DSA, Java, Machine Learning",Not Placed,,,,
+S084,Deepak Gupta,CSE,2024,5.61,1,1,"SQL, React, DSA",Placed,HCLTech,Graduate Engineer Trainee,3.52,2023-12-16
+S085,Arjun Bansal,IT,2026,6.84,1,2,"Python, Java, Web Dev",Placed,Deloitte,Analyst,6.98,2026-01-04
+S086,Kavya Bansal,ME,2025,6.35,0,0,"AutoCAD, Excel, SolidWorks",Not Placed,,,,
+S087,Amit Yadav,IT,2025,6.69,2,1,"DSA, Java, Web Dev",Not Placed,,,,
+S088,Pooja Kapoor,CE,2025,6.1,0,0,"Excel, Surveying, AutoCAD",Not Placed,,,,
+S089,Arjun Saxena,ECE,2026,6.83,0,0,"Python, Embedded C, IoT",Not Placed,,,,
+S090,Aarav Verma,EEE,2024,8.1,3,1,"MATLAB, PLC, Embedded C",Placed,Wipro,Project Engineer,4.31,2023-09-29
+S091,Ankit Yadav,EEE,2026,9.18,0,0,"Embedded C, MATLAB, PLC",Placed,Deloitte,Analyst,7.07,2026-02-18
+S092,Amit Chauhan,CSE,2025,7.43,0,1,"React, Python, Machine Learning",Placed,Capgemini,Analyst,4.67,2024-08-28
+S093,Deepak Jain,CE,2024,7.12,0,0,"AutoCAD, Surveying, STAAD Pro",Not Placed,,,,
+S094,Priya Bansal,CSE,2024,5.5,0,0,"Java, DSA, React",Not Placed,,,,
+S095,Pooja Tiwari,IT,2026,5.95,0,1,"Cloud, Java, Web Dev",In Process,,,,
+S096,Ankit Bansal,IT,2026,8.08,0,1,"DSA, SQL, Cloud",Not Placed,,,,
+S097,Priya Gupta,CSE,2024,7.74,0,1,"React, Python, DSA",Placed,HCLTech,Graduate Engineer Trainee,3.96,2024-01-18
+S098,Divya Kapoor,ME,2026,7.62,0,0,"Python, Excel, AutoCAD",In Process,,,,
+S099,Isha Goyal,CSE,2024,6.72,0,0,"Java, SQL, Python",Not Placed,,,,
+S100,Aarav Mishra,CSE,2025,8.33,2,0,"Java, Machine Learning, SQL",Placed,Deloitte,Analyst,7.9,2024-08-08
+S101,Aditya Agarwal,IT,2025,6.93,0,1,"Cloud, DSA, Python",Not Placed,,,,
+S102,Rohan Mishra,EEE,2024,8.13,0,0,"Python, AutoCAD, Embedded C",Placed,L&T,Graduate Engineer Trainee,5.04,2023-12-10
+S103,Nikhil Goyal,ECE,2025,8.27,0,0,"IoT, VLSI, Embedded C",Not Placed,,,,
+S104,Nikhil Chauhan,CSE,2025,7.65,0,0,"SQL, React, Java",Placed,Capgemini,Analyst,3.92,2025-03-09
+S105,Shreya Verma,IT,2025,8.98,0,1,"DSA, Web Dev, SQL",Placed,TCS,Systems Engineer,4.47,2024-09-13
+S106,Nisha Saxena,CSE,2024,6.55,0,1,"React, Python, SQL",Not Placed,,,,
+S107,Divya Mishra,CSE,2026,8.21,1,0,"Machine Learning, Java, React",Placed,Accenture,Associate Software Engineer,4.89,2026-01-02
+S108,Rohan Gupta,CSE,2026,8.11,0,1,"React, SQL, DSA",Not Placed,,,,
+S109,Rohan Bansal,CSE,2025,6.31,0,0,"Python, DSA, SQL",Not Placed,,,,
+S110,Nisha Tiwari,CSE,2024,6.22,0,1,"SQL, React, Python",Not Placed,,,,
+S111,Ankit Goyal,ECE,2024,5.84,1,2,"Embedded C, VLSI, MATLAB",Not Placed,,,,
+S112,Ananya Mishra,IT,2025,7.9,0,1,"DSA, Cloud, Python",Placed,Capgemini,Analyst,3.91,2024-08-25
+S113,Neha Rathore,CSE,2026,8.78,0,0,"Python, React, Java",In Process,,,,
+S114,Kavya Rathore,CSE,2026,5.53,2,0,"SQL, DSA, Java",Not Placed,,,,
+S115,Shreya Gupta,ECE,2025,7.23,0,2,"IoT, Python, Embedded C",Placed,Infosys,Systems Engineer,3.82,2024-10-15
+S116,Ananya Verma,ECE,2026,7.39,0,0,"VLSI, MATLAB, IoT",Not Placed,,,,
+S117,Karan Bansal,CSE,2025,7.1,0,0,"Machine Learning, SQL, Java",Placed,Accenture,Associate Software Engineer,6.43,2025-02-17
+S118,Priya Agarwal,IT,2026,6.81,3,1,"SQL, Web Dev, Cloud",Not Placed,,,,
+S119,Aditi Pandey,CSE,2025,8.2,0,1,"Python, DSA, Machine Learning",Placed,Accenture,Associate Software Engineer,5.4,2024-12-10
+S120,Aditya Jain,ME,2025,6.59,2,1,"CATIA, Python, AutoCAD",Not Placed,,,,
+S121,Aditya Saxena,CSE,2025,8.96,0,1,"Java, Python, DSA",Placed,Tech Mahindra,Software Engineer,4.54,2024-09-05
+S122,Deepak Sharma,ME,2024,6.68,0,1,"Excel, CATIA, AutoCAD",Not Placed,,,,
+S123,Amit Tiwari,CSE,2024,6.0,0,0,"SQL, React, Python",Not Placed,,,,
+S124,Sneha Jain,EEE,2025,8.17,0,1,"MATLAB, Python, PLC",Placed,TCS,Systems Engineer,4.02,2024-11-01
+S125,Aditya Sharma,IT,2025,8.26,0,1,"SQL, Python, DSA",Placed,Adobe,Member Technical Staff,23.17,2025-02-14
+S126,Sneha Chauhan,CSE,2025,7.64,0,1,"Java, SQL, React",Placed,Wipro,Project Engineer,3.56,2025-02-15
+S127,Deepak Verma,CSE,2024,7.88,0,0,"SQL, React, Machine Learning",Placed,Cognizant,Programmer Analyst,4.29,2024-03-08
+S128,Divya Verma,ME,2025,5.59,0,1,"CATIA, Excel, Python",Not Placed,,,,
+S129,Karan Goyal,ECE,2025,8.37,1,1,"Embedded C, Python, IoT",Not Placed,,,,
+S130,Karan Tiwari,IT,2024,6.9,0,0,"Web Dev, Cloud, DSA",Placed,Tech Mahindra,Software Engineer,4.03,2023-08-11
+S131,Shreya Saxena,ECE,2025,7.01,2,0,"Python, IoT, MATLAB",Not Placed,,,,
+S132,Aarav Yadav,ME,2026,9.89,1,0,"AutoCAD, SolidWorks, Python",Placed,Mahindra,Graduate Engineer Trainee,4.56,2025-09-09
+S133,Isha Bansal,CE,2025,7.06,0,0,"Revit, Surveying, AutoCAD",Not Placed,,,,
+S134,Priya Rathore,ME,2024,7.52,0,0,"CATIA, SolidWorks, Python",Placed,Tata Motors,Engineer Trainee,5.0,2023-09-04
+S135,Aditi Gupta,IT,2026,7.04,0,1,"SQL, DSA, Python",In Process,,,,
+S136,Nikhil Mishra,EEE,2026,7.53,0,1,"AutoCAD, MATLAB, PLC",Not Placed,,,,
+S137,Aarav Saxena,ECE,2025,5.5,0,2,"Embedded C, IoT, VLSI",Not Placed,,,,
+S138,Ananya Kapoor,EEE,2026,7.92,0,2,"PLC, Python, MATLAB",In Process,,,,
+S139,Simran Mishra,EEE,2024,5.6,0,0,"MATLAB, Embedded C, PLC",Placed,Wipro,Project Engineer,3.85,2024-03-28
+S140,Ananya Tiwari,ME,2025,8.21,0,2,"Python, SolidWorks, Excel",Placed,Mahindra,Graduate Engineer Trainee,4.69,2025-01-12
+S141,Karan Yadav,CSE,2026,7.17,1,1,"Python, Machine Learning, React",Not Placed,,,,
+S142,Saurabh Agarwal,EEE,2025,6.19,0,0,"AutoCAD, Embedded C, Python",Not Placed,,,,
+S143,Priya Jain,ME,2026,6.58,0,0,"CATIA, Excel, SolidWorks",Not Placed,,,,
+S144,Yash Yadav,EEE,2026,7.95,0,0,"Python, PLC, MATLAB",In Process,,,,
+S145,Vivaan Tiwari,CE,2026,5.5,1,1,"Surveying, Revit, AutoCAD",In Process,,,,
+S146,Priya Sharma,CSE,2025,8.54,0,2,"Java, React, DSA",Placed,Accenture,Associate Software Engineer,5.49,2025-03-14
+S147,Simran Pandey,EEE,2025,6.79,0,0,"AutoCAD, Embedded C, PLC",Placed,Bosch,Engineer,7.29,2024-10-11
+S148,Nisha Singh,CSE,2024,8.08,0,1,"DSA, React, Machine Learning",Placed,Cognizant,Programmer Analyst,4.6,2023-11-11
+S149,Vivaan Verma,CSE,2025,7.76,0,2,"Java, DSA, React",Placed,Zoho,Member Technical Staff,8.96,2024-10-16
+S150,Ananya Goyal,EEE,2025,6.37,0,0,"Embedded C, PLC, MATLAB",Not Placed,,,,
